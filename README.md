@@ -14,6 +14,9 @@
 - 💬 **Conversational Interface** for interacting with document content
 
 
+![DocGen Preview](image.png)
+
+
 ## 🛠 Tech Stack
 
 - **Frontend:** Streamlit 
