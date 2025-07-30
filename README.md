@@ -1,6 +1,6 @@
 # 📄 DocGen - Document Analyzer with NLP
 
-**DocGen** is an application that enables users to upload PDFs and interact with their contents using advanced NLP techniques. The app provides features like text extraction, summarization, sentiment analysis and a conversational interface for an enhanced document understanding experience.
+**DocGen** is an application that enables users to enter custom text and interact with it using advanced NLP techniques. The app provides features like text summarization, sentiment analysis and a conversational interface for an enhanced document understanding experience.
 
 ## 🚀 Features
 
@@ -56,7 +56,7 @@
 ## 📌 Use Cases
 
 - 📚 Academic paper analysis  
-- 🔍 Contextual search from large documents  
+- 🔍 Contextual search from large textual data  
 - 🧾 Business and financial summary extraction  
 
 
